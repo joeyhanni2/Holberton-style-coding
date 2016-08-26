@@ -1,8 +1,7 @@
 # 6 Functions
 
 Functions should be short and sweet, and do just one thing.  
-They should fit on one or two screenfuls of text (the ISO/ANSI screen size is 80x24,
-as we all know), and do one thing and do that well.
+They must fit on **40 lines**, and do one thing and do that well.
 
 The maximum length of a function is inversely proportional to the complexity and indentation level of that function.  
 So, if you have a conceptually simple function that is just one long (but simple) case-statement, where you have to do lots of small things for a lot of different cases, it's OK to have a longer function.
