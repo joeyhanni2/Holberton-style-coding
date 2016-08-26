@@ -1,4 +1,4 @@
-# 3.Placing Braces and Spaces
+# 3 Placing Braces and Spaces
 
 The other issue that always comes up in C styling is the placement of braces.  
 Unlike the indent size, there are few technical reasons to choose one placement strategy over the other, but the preferred way, is to put both the opening and the closing braces first, thusly:
