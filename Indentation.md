@@ -38,7 +38,7 @@ int sample_func(char suffix)
 	return (var);
 }
 ```
-
+___
 Don't put multiple statements on a single line:
 
 ```C
@@ -49,7 +49,7 @@ Don't put multiple statements on a single line:
 Don't put multiple assignments on a single line either.  
 Kernel coding style is super simple.  
 Avoid tricky expressions.
-
+___
 Outside of comments and documentation, spaces are never used for indentation, and **the above example is deliberately broken.**
 
 Get a decent editor and don't leave whitespace at the end of lines.
