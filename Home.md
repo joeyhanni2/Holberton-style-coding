@@ -20,9 +20,11 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 4. [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
 
-6. [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
+5. [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
 
-8. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
+6. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
+
+7. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
 
 ## References
 
