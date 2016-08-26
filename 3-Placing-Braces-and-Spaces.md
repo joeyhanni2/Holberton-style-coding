@@ -30,11 +30,16 @@ This applies to all non-function statement blocks: `if, switch, for, while, do`.
 and
 
 ```C
-	if (x == y) {
-		..
-	} else if (x > y) {
+	if (x == y)
+	{
 		...
-	} else {
+	}
+	else if (x > y)
+	{
+		...
+	}
+	else
+	{
 		....
 	}
 ```
@@ -77,10 +82,13 @@ and
 This does not apply if only one branch of a conditional statement is a single statement; in the latter case use braces in both branches:
 
 ```C
-	if (condition) {
+	if (condition)
+	{
 		do_this();
 		do_that();
-	} else {
+	}
+	else
+	{
 		otherwise();
 	}
 ```
