@@ -4,7 +4,7 @@
 
 3. [Placing Braces and Spaces](https://github.com/holbertonschool/Betty/wiki/Placing-Braces-and-Spaces)
 
-    3.1. [Spaces](https://github.com/holbertonschool/Betty/wiki/3.1-Spaces)
+    3.1. [Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
 
 4. [Naming](https://github.com/holbertonschool/Betty/wiki/4-Naming)
 
