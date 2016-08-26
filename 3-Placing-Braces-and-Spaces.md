@@ -17,13 +17,13 @@ This applies to all non-function statement blocks: `if, switch, for, while, do`.
 	switch (action)
 	{
 	case CASE_ADD:
-		return "add";
+		return ("add");
 	case CASE_REMOVE:
-		return "remove";
+		return ("remove");
 	case CASE_CHANGE:
-		return "change";
+		return ("change");
 	default:
-		return NULL;
+		return (NULL);
 	}
 ```
 
