@@ -7,7 +7,8 @@ Tabs characters will be counted as `1` character by `Betty`.
 The whole idea behind indentation is to clearly define where a block of control starts and ends.  
 Especially when you've been looking at your screen for 20 straight hours, you'll find it a lot easier to see how the indentation works if you have large indentations.
 
-The preferred way to ease multiple indentation levels in a switch statement is to align the `switch` and its subordinate `case` labels in the same column instead of `double-indenting` the `case` labels.  E.g.:
+The preferred way to ease multiple indentation levels in a switch statement is to align the `switch` and its subordinate `case` labels in the same column instead of `double-indenting` the `case` labels.  
+**E.g.:**
 
 ```C
 int sample_func(char suffix)
