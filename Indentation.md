@@ -1,5 +1,3 @@
-# 1 Indentation
-
 ### Tabs
 
 Use `tabs` to indent your code.
