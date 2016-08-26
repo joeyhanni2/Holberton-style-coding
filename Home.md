@@ -26,5 +26,5 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 ## References
 
-[Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)
+[Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)  
 See the section `References` of the Linux Kernel coding style for more sources.
