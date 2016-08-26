@@ -1,5 +1,3 @@
-# 8 Commenting
-
 Comments are good, but there is also a danger of over-commenting.  
 **NEVER** try to explain HOW your code works in a comment: it's much better to write the code so that the _working_ is obvious, and it's a waste of time to explain badly written code.
 
