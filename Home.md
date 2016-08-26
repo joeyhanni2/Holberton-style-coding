@@ -26,6 +26,8 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 7. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
 
+8. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
+
 ## References
 
 [Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)  
