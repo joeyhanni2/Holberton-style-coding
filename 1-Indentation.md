@@ -17,7 +17,8 @@ int sample_func(char suffix)
 	int var;
 
 	var = 0;
-	switch (suffix) {
+	switch (suffix)
+	{
 	case 'G':
 	case 'g':
 		var = 30;
