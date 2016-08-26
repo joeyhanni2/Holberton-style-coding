@@ -1,5 +1,3 @@
-# 6 Functions
-
 Functions should be short and sweet, and do just one thing.  
 They must fit on **40 lines**, and do one thing and do that well.
 
