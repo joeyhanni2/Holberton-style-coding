@@ -1,5 +1,3 @@
-# 2 Breaking long lines and strings
-
 Coding style is all about readability and maintainability using commonly available tools.
 
 The limit on the length of lines is **80 columns** and this is a strongly preferred limit.
