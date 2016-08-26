@@ -6,8 +6,8 @@
 
     3.1. [Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
 
-4. [Naming](https://github.com/holbertonschool/Betty/wiki/4-Naming)
+4. [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
 
-6. [Functions](https://github.com/holbertonschool/Betty/wiki/6-Functions)
+6. [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
 
-8. [Commenting](https://github.com/holbertonschool/Betty/wiki/8-Commenting)
+8. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
