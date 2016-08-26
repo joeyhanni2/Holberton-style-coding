@@ -47,6 +47,6 @@ Don't put multiple assignments on a single line either.
 Kernel coding style is super simple.  
 Avoid tricky expressions.
 
-Outside of comments, documentation and except in Kconfig, spaces are never used for indentation, and the above example is deliberately broken.
+Outside of comments and documentation, spaces are never used for indentation, and **the above example is deliberately broken.**
 
 Get a decent editor and don't leave whitespace at the end of lines.
