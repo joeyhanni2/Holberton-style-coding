@@ -1,4 +1,4 @@
-1. [Indentation](https://github.com/holbertonschool/Betty/wiki/1-Indentation)
+1. [Indentation](https://github.com/holbertonschool/Betty/wiki/Indentation)
 
 2. [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/2-Breaking-long-lines-and-strings)
 
