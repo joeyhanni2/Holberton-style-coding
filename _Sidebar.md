@@ -15,3 +15,5 @@
 6. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
 
 7. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
+
+8. [Header files](https://github.com/holbertonschool/Betty/wiki/Header-files)
