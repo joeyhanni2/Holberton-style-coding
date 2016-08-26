@@ -1,4 +1,14 @@
-Welcome to the Betty wiki!
+#Welcome to the Betty wiki!
+
+## Introduction
+
+This document describes the C coding style for Holberton School.  
+Coding style is very personal, and **we won't force** our views on anybody.  
+But we expect you to **follow this coding style for all the projects related to Holberton School**.
+The Holberton School coding style is mainly inspired from the [Linux Kernel coding style](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle), but it's slightly modified.  
+To avoid any confusion, please refer to this guide and not the official Linux Kernel coding style.
+
+## Summary
 
 1. [Indentation](https://github.com/holbertonschool/Betty/wiki/Indentation)
 
@@ -13,3 +23,8 @@ Welcome to the Betty wiki!
 6. [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
 
 8. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
+
+## References
+
+[Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)
+See the section `References` of the Linux Kernel coding style for more sources.
