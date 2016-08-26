@@ -26,7 +26,7 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 7. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
 
-8. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
+8. [Header files](https://github.com/holbertonschool/Betty/wiki/Header-files)
 
 ## References
 
