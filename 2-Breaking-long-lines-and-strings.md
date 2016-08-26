@@ -1,4 +1,4 @@
-# 2.Breaking long lines and strings
+# 2 Breaking long lines and strings
 
 Coding style is all about readability and maintainability using commonly available tools.
 
