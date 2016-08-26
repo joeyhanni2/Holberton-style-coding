@@ -1,6 +1,6 @@
 1. [Indentation](https://github.com/holbertonschool/Betty/wiki/Indentation)
 
-2. [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/2-Breaking-long-lines-and-strings)
+2. [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/Breaking-long-lines-and-strings)
 
 3. [Placing Braces and Spaces](https://github.com/holbertonschool/Betty/wiki/3-Placing-Braces-and-Spaces)
 
