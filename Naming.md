@@ -1,5 +1,3 @@
-# 4 Naming
-
 C is a Spartan language, and so should your naming be.  
 Unlike Modula-2 and Pascal programmers, C programmers do not use cute names like
 
