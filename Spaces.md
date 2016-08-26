@@ -5,15 +5,22 @@ The notable exceptions are `sizeof`, `typeof`, `alignof`, and `__attribute__`, w
 So use a space after these keywords:
 
 ```C
-	if, switch, case, for, do, while
+	if, switch, case, for, while
 ```
 
 but not with `sizeof`, `typeof`, `alignof`, or `__attribute__`.  
-**E.g.:**
 
-```C
-	s = sizeof(struct file);
-```
+Keyword|Space After|Example
+---:|:---:|---
+`if`|Yes|`if (condition)`
+`switch`|Yes|`switch (variable)`
+`case`|Yes|`case value:`
+`for`|Yes|`for (i = 0; i < 10; ++i)`
+`while`|Yes|`while (condition)`
+`sizeof`|No|`sizeof(struct file)`
+`typeof`|No|`typeof(variable)`
+`alignof`|No|`alignof(variable)`
+`__attribute__`|No|`__attribute__((unused))`
 
 Do not add spaces around (inside) parenthesized expressions.  
 This example is **bad**:
