@@ -5,7 +5,7 @@ The notable exceptions are `sizeof`, `typeof`, `alignof`, and `__attribute__`, w
 So use a space after these keywords:
 
 ```C
-	if, else if, else, switch, case, for, while
+	if, else if, else, switch, case, for, while, return
 ```
 
 but not with `sizeof`, `typeof`, `alignof`, or `__attribute__`.  
@@ -19,6 +19,7 @@ Keyword|Space After|Example
 `case`|Yes|`case value:`
 `for`|Yes|`for (i = 0; i < 10; ++i)`
 `while`|Yes|`while (condition)`
+`return`|Yes|`return (1);`
 `sizeof`|No|`sizeof(struct file)`
 `typeof`|No|`typeof(variable)`
 `alignof`|No|`alignof(variable)`
