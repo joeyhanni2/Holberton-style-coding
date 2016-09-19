@@ -8,7 +8,7 @@ Unlike the indent size, there are few technical reasons to choose one placement 
 	}
 ```
 
-This applies to all non-function statement blocks: `if, switch, for, while`.  
+This applies to almost all non-function statement blocks: `if, switch, for, while`.  
 **E.g.:**
 
 ```C
