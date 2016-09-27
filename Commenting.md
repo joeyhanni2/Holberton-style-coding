@@ -7,7 +7,7 @@ You can make small comments to note or warn about something particularly clever 
 Instead, put the comments at the head of the function, telling people what it does, and possibly WHY it does it.
 
 When commenting your functions, please use the kernel-doc format.
-See the Chapter about documentation and the script `kernel-doc` from Betty for details.
+See the Chapter about documentation and the script `betty-doc` from Betty for details.
 
 Linux style for comments is the C89 style.
 
