@@ -10,8 +10,6 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 ## Summary
 
-## [Home](https://github.com/holbertonschool/Betty/wiki)
-
 #### 0. Betty cli
 
 0.1 - [Usage]()
@@ -43,8 +41,3 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 2.1 - [Functions]()
 
 2.2 - [Data structures]()
-
-## References
-
-[Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)  
-See the section `References` of the Linux Kernel coding style for more sources.
