@@ -1,0 +1,2 @@
+[Linux Kernel coding style] (http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle)  
+See the section `References` of the Linux Kernel coding style for more sources.
