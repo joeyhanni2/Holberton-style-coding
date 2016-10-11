@@ -14,7 +14,7 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 0.1 - [Usage]()
 
-0.2 - [References]()
+0.2 - [References](https://github.com/holbertonschool/Betty/wiki/References)
 
 #### 1. Coding style
 
