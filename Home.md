@@ -10,23 +10,39 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 ## Summary
 
-1. [Indentation](https://github.com/holbertonschool/Betty/wiki/Indentation)
+## [Home](https://github.com/holbertonschool/Betty/wiki)
 
-2. [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/Breaking-long-lines-and-strings)
+#### 0. Betty cli
 
-3. [Placing Braces and Spaces](https://github.com/holbertonschool/Betty/wiki/Placing-Braces-and-Spaces)
+0.1 - [Usage]()
 
-    3.1. [Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
+0.2 - [References]()
 
-4. [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
+#### 1. Coding style
 
-5. [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
+1.1 - [Indentation](https://github.com/holbertonschool/Betty/wiki/Indentation)
 
-6. [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
+1.2 - [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/Breaking-long-lines-and-strings)
 
-7. [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
+1.3 - [Placing Braces](https://github.com/holbertonschool/Betty/wiki/Placing-Braces-and-Spaces)
 
-8. [Header files](https://github.com/holbertonschool/Betty/wiki/Header-files)
+1.4 - [Placing Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
+
+1.5 - [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
+
+1.6 - [Functions](https://github.com/holbertonschool/Betty/wiki/Functions)
+
+1.7 - [Commenting](https://github.com/holbertonschool/Betty/wiki/Commenting)
+
+1.8 - [Macros and Enums](https://github.com/holbertonschool/Betty/wiki/Macros-and-Enums)
+
+1.9 - [Header files](https://github.com/holbertonschool/Betty/wiki/Header-files)
+
+#### 2. Documentation
+
+2.1 - [Functions]()
+
+2.2 - [Data structures]()
 
 ## References
 
