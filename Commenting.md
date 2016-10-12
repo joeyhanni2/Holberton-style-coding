@@ -6,16 +6,16 @@ Also, try to avoid putting comments inside a function body: if the function is s
 You can make small comments to note or warn about something particularly clever (or ugly), but try to avoid excess.  
 Instead, put the comments at the head of the function, telling people what it does, and possibly WHY it does it.
 
-When commenting your functions, please use the kernel-doc format.
-See the Chapter about documentation and the script `betty-doc` from Betty for details.
+When commenting your functions, please use the betty-doc format.
+See the Chapter about Documentation and the script `betty-doc` from Betty for details.
 
-Linux style for comments is the C89 style.
+Betty style for comments is the **C89 style**.
 
 ```C
 /* Use this */
 ```
 
-Don't use C99-style comments
+**Don't use C99-style comments**
 
 ```C
 // Don't use this
@@ -26,14 +26,10 @@ The preferred style for long (multi-line) comments is:
 ```C
 	/*
 	 * This is the preferred style for multi-line
-	 * comments in the Linux kernel source code.
+	 * comments in C source code.
 	 * Please use it consistently.
 	 *
 	 * Description:  A column of asterisks on the left side,
 	 * with beginning and ending almost-blank lines.
 	 */
 ```
-
-It's also important to comment data, whether they are basic types or derived types.  
-To this end, use just one data declaration per line (no commas for multiple data declarations).  
-This leaves you room for a small comment on each item, explaining its use.
