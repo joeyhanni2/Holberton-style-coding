@@ -11,7 +11,7 @@ A C programmer would call that variable
 tmp
 ```
 
-which is much easier to write, and not the least more difficult to understand.
+which is easier to write, and easy to understand.
 
 **HOWEVER**, while mixed-case names are frowned upon, descriptive names for global variables are a must.  
 To call a global function `foo` is a shooting offense.
