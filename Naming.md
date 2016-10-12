@@ -30,7 +30,6 @@ cntusr()
 ```
 
 Encoding the type of a function into the name (so-called Hungarian notation) is brain damaged - the compiler knows the types anyway and can check those, and it only confuses the programmer.  
-No wonder MicroSoft makes buggy programs.
 
 **LOCAL** variable names should be short, and to the point.  
 If you have some random integer loop counter, it should probably be called `i`.
