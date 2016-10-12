@@ -33,7 +33,7 @@ The format of a documentation block is the following one:
 
 ```C
 /**
- * function_name - Short description
+ * function_name - Short description, single line
  * @parameterx: Description of parameter x
 (* a blank line
  * Description: Longer description of the function)?
@@ -115,6 +115,25 @@ Example for the `Description` header (longer description)
  * But you're totally free to use several lines to properly
  * describe your function
  * Return: The sum of the two parameters
+ */
+int op_add(int arg1, int arg2)
+{
+	return (arg1 + arg2);
+}
+```
+
+You can also add additional sections. For example, you can add a section `Example` on which you can give an example of usage when it's relevant.
+
+Example:
+
+```C
+/**
+ * op_add - Makes the sum of two numbers
+ * @arg1: First operand
+ * @arg2: Second operand
+ *
+ * Example:
+ *    op_add(90, 8); --> 98
  */
 int op_add(int arg1, int arg2)
 {
