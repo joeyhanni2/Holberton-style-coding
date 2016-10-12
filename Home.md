@@ -24,9 +24,9 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 1.2 - [Breaking long lines and strings](https://github.com/holbertonschool/Betty/wiki/Breaking-long-lines-and-strings)
 
-1.3 - [Placing Braces](https://github.com/holbertonschool/Betty/wiki/Placing-Braces-and-Spaces)
+1.3 - [Placing Braces](https://github.com/holbertonschool/Betty/wiki/Placing-braces)
 
-1.4 - [Placing Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
+1.4 - [Placing Spaces](https://github.com/holbertonschool/Betty/wiki/Placing-spaces)
 
 1.5 - [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
 
