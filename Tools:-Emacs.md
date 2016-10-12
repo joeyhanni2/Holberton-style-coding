@@ -10,3 +10,13 @@ To tell emacs to use `tabs` instead, you just need to put the following lines in
       tab-width 8
       indent-tabs-mode t)
 ```
+
+___
+
+If you want to highlight lines exceeding 80 characters and trailing whitespace, you can add this to your `~/.emacs`:
+
+```Emacs
+(require 'whitespace)
+(setq whitespace-style '(face empty lines-tail trailing))
+(global-whitespace-mode t)
+```
