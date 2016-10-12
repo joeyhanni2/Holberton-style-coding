@@ -33,3 +33,7 @@
 2.1 - [Functions](https://github.com/holbertonschool/Betty/wiki/Documentation:-Functions)
 
 2.2 - [Data structures](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
+
+#### 3. Tools
+
+3.1 - [Emacs](https://github.com/holbertonschool/Betty/wiki/Tools:-Emacs)
