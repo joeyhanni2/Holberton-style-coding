@@ -2,7 +2,11 @@ By default, `emacs` will use spaces to indent your C code.
 
 Of course, you don't want that.
 
-To tell emacs to use `tabs` instead, you just need to put the following lines in the file `~/.emacs` (If it doesn't exist, just create it):
+In order to customise your `Emacs` configuration, you'll need to modify the file `.emacs` in your home directory. If this file does not already exist, you just need to create it.
+
+**Don't put anything in your `.emacs` you don't understand!**
+
+To tell emacs to use `tabs` instead, you just need to put the following lines in your `.emacs`:
 
 ```Emacs
 (setq c-default-style "bsd"
@@ -31,5 +35,3 @@ You should also add this line to your `~/.emacs`, if you want the current column
 ```Emacs
 (setq column-number-mode t)
 ```
-
-**Don't put anything in your `.emacs` you don't understand!**
