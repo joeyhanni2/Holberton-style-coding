@@ -16,7 +16,7 @@
 
 1.3 - [Placing Braces](https://github.com/holbertonschool/Betty/wiki/Placing-Braces-and-Spaces)
 
-1.4 - [Placing Spaces](https://github.com/holbertonschool/Betty/wiki/Spaces)
+1.4 - [Placing Spaces](https://github.com/holbertonschool/Betty/wiki/Placing-spaces)
 
 1.5 - [Naming](https://github.com/holbertonschool/Betty/wiki/Naming)
 
