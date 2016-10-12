@@ -13,7 +13,4 @@ Re-think the function, and split it into smaller pieces.
 A human brain can generally easily keep track of about 7 different things, anything more and it gets confused.  
 You know you're brilliant, but maybe you'd like to understand what you did 2 weeks from now.
 
-In source files, separate functions with one blank line.  
-
-In function prototypes, include parameter names with their data types.
-Although this is not required by the C language, it is preferred in Linux because it is a simple way to add valuable information for the reader.
+In source files, separate functions with one blank line.
