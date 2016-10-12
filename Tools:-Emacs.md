@@ -5,7 +5,7 @@ Of course, you don't want that.
 To tell emacs to use `tabs` instead, you just need to put the following lines in the file `~/.emacs` (If it doesn't exist, just create it):
 
 ```Emacs
-(setq c-default-style "k&r"
+(setq c-default-style "bsd"
       c-basic-offset 8
       tab-width 8
       indent-tabs-mode t)
@@ -19,4 +19,13 @@ If you want to highlight lines exceeding 80 characters and trailing whitespace, 
 (require 'whitespace)
 (setq whitespace-style '(face empty lines-tail trailing))
 (global-whitespace-mode t)
+```
+
+___
+
+
+You should also add this line to your `~/.emacs`, if you want the current column along with the line in Emacs:
+
+```Emacs
+(setq column-number-mode t)
 ```
