@@ -47,7 +47,7 @@ ___
 	} while (condition)
 ```
 
-is a _very_ bad idea.  
+This is a _very_ bad idea.  
 It looks like a function call but exits the `calling` function; don't break the internal parsers of those who will read the code.
 
 #### 2) Macros that depend on having a local variable with a magic name:
