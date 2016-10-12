@@ -48,4 +48,6 @@ To avoid any confusion, please refer to this guide and **not** the official Linu
 
 3.1 - [Emacs](https://github.com/holbertonschool/Betty/wiki/Tools:-Emacs)
 
-3.2 - [Atom](https://github.com/holbertonschool/Betty/wiki/Tools:-Atom)
+3.2 - [Vim](https://github.com/holbertonschool/Betty/wiki/Tools:-Vim)
+
+3.3 - [Atom](https://github.com/holbertonschool/Betty/wiki/Tools:-Atom)
