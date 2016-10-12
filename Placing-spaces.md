@@ -52,16 +52,36 @@ but no space after unary operators:
 	&  *  +  -  ~  !  sizeof  typeof  alignof  __attribute__  defined
 ```
 
-no space before the postfix increment & decrement unary operators:
+no space before the `postfix` increment & decrement unary operators:
 
 ```C
 	++  --
 ```
 
-no space after the prefix increment & decrement unary operators:
+Example:
+
+```C
+int i;
+
+i = 0;
+i++;
+i--;
+```
+
+no space after the `prefix` increment & decrement unary operators:
 
 ```C
 	++  --
+```
+
+Example:
+
+```C
+int i;
+
+i = 0;
+++i;
+--i;
 ```
 
 and no space around the `.` and `->` structure member operators.
