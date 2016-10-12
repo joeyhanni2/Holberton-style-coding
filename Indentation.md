@@ -47,8 +47,7 @@ Don't put multiple statements on a single line:
 ```
 
 Don't put multiple assignments on a single line either.  
-Kernel coding style is super simple.  
-Avoid tricky expressions.
+Betty coding style is super simple.  
 ___
 Outside of comments and documentation, spaces are never used for indentation, and **the above example is deliberately broken.**
 
