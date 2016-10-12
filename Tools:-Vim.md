@@ -2,6 +2,8 @@ If you are a `vim` user and you want to customise tabs and indentation, just rea
 
 In order to customise your `vim` configuration, you'll need to modify the file `.vimrc` in your home directory. If this file does not already exist, you just need to create it.
 
+**Don't put anything in your `.vimrc` you don't understand!**
+
 #### Tabs
 
 To customise tabs length, you can add the following line to your `~/.vimrc`:
