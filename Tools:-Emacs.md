@@ -11,6 +11,8 @@ To tell emacs to use `tabs` instead, you just need to put the following lines in
       indent-tabs-mode t)
 ```
 
+Here, the size of a `tab` character in Emacs is set to `8`, so Emacs will display 8 spaces on your screen to represent a single `tab`. You can modify this value, to put a smaller one if you want, but just keep in mind that it's a good habit to keep an indentation of 8 columns: it makes your code more readable.
+
 ___
 
 If you want to highlight lines exceeding 80 characters and trailing whitespace, you can add this to your `~/.emacs`:
