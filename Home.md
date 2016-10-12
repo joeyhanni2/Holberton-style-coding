@@ -12,9 +12,11 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 #### 0. Betty cli
 
-0.1 - [Usage]()
+0.1 - [Betty-style usage](https://github.com/holbertonschool/Betty/wiki/Betty-style-usage)
 
-0.2 - [References](https://github.com/holbertonschool/Betty/wiki/References)
+0.2 - [Betty-doc usage](https://github.com/holbertonschool/Betty/wiki/Betty-doc-usage)
+
+0.3 - [References](https://github.com/holbertonschool/Betty/wiki/References)
 
 #### 1. Coding style
 
@@ -38,6 +40,6 @@ To avoid any confusion, please refer to this guide and not the official Linux Ke
 
 #### 2. Documentation
 
-2.1 - [Functions]()
+2.1 - [Functions](https://github.com/holbertonschool/Betty/wiki/Documentation:-Functions)
 
-2.2 - [Data structures]()
+2.2 - [Data structures](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
