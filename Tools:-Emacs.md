@@ -31,3 +31,5 @@ You should also add this line to your `~/.emacs`, if you want the current column
 ```Emacs
 (setq column-number-mode t)
 ```
+
+**Don't put anything in your `.emacs` you don't understand!**
