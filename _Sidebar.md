@@ -30,6 +30,6 @@
 
 #### 2. Documentation
 
-2.1 - [Functions]()
+2.1 - [Functions](https://github.com/holbertonschool/Betty/wiki/Documentation:-Functions)
 
-2.2 - [Data structures]()
+2.2 - [Data structures](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
