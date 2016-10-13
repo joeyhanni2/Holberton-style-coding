@@ -37,4 +37,4 @@ Calling it `loop_counter` is non-productive, if there is no chance of it being m
 Similarly, `tmp` can be just about any type of variable that is used to hold a temporary value.
 
 If you are afraid to mix up your local variable names, you have another problem, which is called the function-growth-hormone-imbalance syndrome.
-See chapter 6 (Functions).
+See chapter 1.6 (Functions).
