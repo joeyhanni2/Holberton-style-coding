@@ -1,6 +1,6 @@
 Betty coding style for use of spaces depends (mostly) on function-versus-keyword usage.  
 Use a space after (most) keywords.  
-The notable exceptions are `sizeof`, `typeof`, `alignof`, and `__attribute__`, which look somewhat like functions (and are usually used with parentheses in Linux, although they are not required in the language, as in: `sizeof info` after `struct fileinfo info;` is declared).
+The notable exceptions are `sizeof`, `typeof`, `alignof`, and `__attribute__`, which look somewhat like functions.
 
 So use a space after these keywords:
 
