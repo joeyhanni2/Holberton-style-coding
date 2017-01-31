@@ -8,6 +8,11 @@ But we expect you to **follow this coding style for all the projects related to 
 The Holberton School coding style is mainly inspired from the [Linux Kernel coding style](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodingStyle), but it's slightly modified.  
 To avoid any confusion, please refer to this guide and **not** the official Linux Kernel coding style.
 
+## Reminder
+
+You should be aware that by default, some text editors are using spaces instead of tabs. For instance, when you press `tab` key on emacs, by default, leading spaces will be put, and that will cause Betty to raise a lot of warnings.
+Please find some help in the `Tools` section of this documentation.
+
 ## Summary
 
 #### 0. Betty cli
