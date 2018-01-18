@@ -1,4 +1,4 @@
-In order to keep your code maintainable and readable, you'll be asked to document every single function in every single of your source files.
+In order to keep your code maintainable and readable, you'll be asked to document every single function of all your source files.
 
 ### How to document functions
 
