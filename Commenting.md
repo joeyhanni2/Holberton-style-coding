@@ -24,7 +24,7 @@ Betty style for comments is the **C89 style**.
 The preferred style for long (multi-line) comments is:
 
 ```C
-	/*
+	/**
 	 * This is the preferred style for multi-line
 	 * comments in C source code.
 	 * Please use it consistently.
